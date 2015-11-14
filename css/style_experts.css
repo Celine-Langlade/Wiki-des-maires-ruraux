@@ -1,0 +1,83 @@
+/************************
+*						*
+*	Corps de la page	* 
+*						*
+*************************/
+
+
+
+footer 
+{
+    margin: 50px 0;
+    text-align: center;
+}
+
+/************************
+*						*
+*	  Page Heading  	* 
+*						*
+*************************/
+
+.page-header
+{
+	text-align: center;
+}
+
+/************************
+*						*
+*	Barre de Recherche	* 
+*						*
+*************************/
+
+#searchbar 
+{
+	text-align: center;
+	position:relative; 
+	width:1040px; 
+	height:auto;
+}
+
+form 
+{
+	display:inline-block;
+}
+
+form #search
+{
+	width:600px; 
+	height:35px;
+}
+
+form i
+{
+	margin-right: 10px;
+}
+
+form #liste
+{
+	text-align: center;
+}
+
+/************************
+*						*
+*	Profile Experts 	* 
+*						*
+*************************/
+
+.col-md-3 a img
+{
+	margin-left: 30px;
+}
+
+div .col-md-2
+{
+	border-width: 1px;
+	border-left: solid;
+	border-color: #EEE -moz-use-text-color -moz-use-text-color;
+}
+
+div .col-md-2 ul li, div .col-md-6 ul li 
+{
+	list-style: none;
+	margin-left: -20px;
+}
